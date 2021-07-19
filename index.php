@@ -177,7 +177,7 @@ require 'cek.php';
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid">
                         <div class="d-flex align-items-center justify-content-between small">
-                            <div class="text-muted">Copyright &copy; Your Website 2020</div>
+                            <div class="text-muted">Copyright &copy; Muhammad Basir 1800018006</div>
                             <div>
                                 <a href="#">Privacy Policy</a>
                                 &middot;
